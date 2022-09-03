@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https:/annaliseperez.com"
 languageCode: "en-us"
 title: "Annalise Perez"
 theme: hugo-profile
@@ -56,7 +56,7 @@ params:
 
   theme:
     disableThemeToggle: false
-    # defaultTheme: "light" # dark
+    defaultTheme: "light" # dark
 
   # font:
   #   fontSize: 1.5rem # default: 1rem
@@ -106,14 +106,14 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://example.com"
       download: true 
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-twitter
-          url: https://example.com
+        - icon: fab fa-facebook
+          url: https://facebook.com
+        - icon: fab fa-instagram
+          url: https://www.instagram.com/cocina_con_annalise/
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
