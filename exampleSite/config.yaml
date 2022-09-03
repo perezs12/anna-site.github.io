@@ -102,7 +102,7 @@ params:
     title: "Annalise."
     subtitle: "This page is a work in progress."
     content: "Please be patient."
-    image: /images/cat.png
+    image: /images/cat.jpg
     button:
       enable: true
       name: "Resume"
