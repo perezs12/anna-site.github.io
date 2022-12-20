@@ -138,21 +138,18 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/a7.jpeg"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I am a passionate RBT working towards my Masters in Behavioral Analysis.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Here are a few skills and certifications I currently hold:
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Fluent in English and Spanish"
+        - "Registered Behavioral Technician"
+        - "Safety Care by QBS Certified"
+        - "CPR Certified"
 
   # Experience
   experience:
@@ -225,41 +222,27 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Masters of Arts in Behavioral Analysis Practice"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "Florida Institute of Technology"
+          url: "https://www.fit.edu"
+        date: "January 2021 - Present"
+        GPA: "3.95"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
-        school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Expected graduation date is May 2023
         featuredLink:
-          enable: true
+          enable: false
           name: "My academic record"
           url: "https://example.com"
-      - title: "High School"
+      - title: "Bachelors of Arts in Psychology"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
+          name: "University of Nevada, Las Vegas"
+          url: "https://www.unlv.edu"
+        date: "August 2016 - December 2018"
+        Minor: "Family Studies"
+        GPA: "3.6"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
 
   # Achievements
