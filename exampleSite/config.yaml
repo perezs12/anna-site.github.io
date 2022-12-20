@@ -103,6 +103,7 @@ params:
     subtitle: "This page is a work in progress."
     content: "Please be patient."
     image: /images/cat.jpg
+    image: /images/a17.jpeg
     button:
       enable: true
       name: "Resume"
