@@ -14,7 +14,7 @@ markup:
 Menus:
   main:
     - identifier: blog
-      name: Blog
+      name: Recipes
       title: Blog posts
       url: /blogs
       weight: 1
@@ -100,8 +100,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Annalise."
-    subtitle: "This page is a work in progress."
-    content: "Please be patient."
+    subtitle: "I am currently a master's student who loves to bake"
+    content: "This site will showcase my baking skills"
     image: /images/cat.jpg
     image: /images/a17.jpeg
     button:
