@@ -14,5 +14,5 @@ images:
  - src: /images/a6.jpeg
  - src: /images/a7.jpeg
  - src: /images/a8.jpeg
-  
+
 ---

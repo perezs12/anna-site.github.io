@@ -107,7 +107,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://example.com"
+      url: "https://google.com"
       download: true 
     socialLinks:
       fontAwesomeIcons:
@@ -117,4 +117,4 @@ params:
           url: https://www.instagram.com/cocina_con_annalise/
       customIcons:
         - icon: /fav.png
-          url: "https://example.com"
+          url: "https://google.com"
