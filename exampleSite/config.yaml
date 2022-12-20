@@ -114,10 +114,10 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/hero.svg
+    title: "Annalise."
+    subtitle: "I love baking and my two cats"
+    content: "This website will showcase my baking skills and cats"
+    image: /images/a17.jpeg
     button:
       enable: true
       name: "Resume"
@@ -156,7 +156,7 @@ params:
 
   # Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - job: "Senior Software Developer"
