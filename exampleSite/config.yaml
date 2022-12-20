@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Annalise Perez"
 theme: hugo-profile
 
 outputs:
@@ -23,7 +23,7 @@ markup:
 Menus:
   main:
     - identifier: blog
-      name: Blog
+      name: Recipes
       title: Blog posts
       url: /blogs
       weight: 1
@@ -264,7 +264,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
@@ -283,7 +283,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Hugo Profile
@@ -333,10 +333,10 @@ params:
 
   #Contact
   contact:
-    enable: true
+    enable: false
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    email: example@gmail.com
     btnName: Mail me
 
   footer:
@@ -344,13 +344,12 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: true
+      enable: false
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
       linkedin: https://linkedin.com
       twitter: https://twitter.com
-      instagram: https://instagram.com
+      instagram: https://www.instagram.com/cocina_con_annalise/
       facebook: https://facebook.com
 
   # List pages like blogs and posts
