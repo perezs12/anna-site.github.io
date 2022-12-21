@@ -156,7 +156,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Registered Behavior Technician"
+      - job: "Registered Behavior Technician / Program Manager"
         company: "Accelerated Learning Center"
         companyUrl: "http://www.alcautism.com"
         date: "August 2020 - Present"
@@ -171,30 +171,31 @@ params:
           - Planned and coordinated company events
           - Administered treatment plan protocols and collected data on progress
     
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+      - job: "Long Term Substitute"
+        company: "Pinecrest Academy Cadence"
+        companyUrl: "https://www.pinecrestcadence.org"
+        date: "August 2018 - July 2020"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: 
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Create lesson plans that engage student involvement.
+          - Document and track student progress. Communicate with parents and grade level team on student performance.
+          - Ensure all students have a safe learning environment.
+          - Attend meetings and ensure that all rules and procedures are met before deadlines.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "Academic Coach Concierge"
+        company: "University of Nevada, Las Vegas"
+        companyUrl: "https://unlv.edu"
+        date: "February 2018 - August 2018"
         info:
           enable: false
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
@@ -202,24 +203,18 @@ params:
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
+      - job: "Registered Behavior Technician"
+        company: "Our Little World Treatment Center"
         companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+        date: "April 2017 - February 2018"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
           - Lead backend developer for a product.
           - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
