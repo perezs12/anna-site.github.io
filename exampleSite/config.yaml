@@ -239,7 +239,6 @@ params:
           name: "University of Nevada, Las Vegas"
           url: "https://www.unlv.edu"
         date: "August 2016 - December 2018"
-        Minor: "Family Studies"
         GPA: "3.6"
         featuredLink:
           enable: false
