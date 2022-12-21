@@ -164,7 +164,7 @@ params:
           enable: false
           name: "View the project"
           url: "https://example.com"
-        content: |
+      content: |
         - Training and onboarding of new RBTs
         - Assisted in assessments and writing of treatment plans and goals under direct supervision of a BCBA
         - Planned and coordinated company events
