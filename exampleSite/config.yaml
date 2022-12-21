@@ -115,21 +115,21 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Annalise."
-    subtitle: "I love baking and my two cats"
+    subtitle: "I love baking, reading, and chilling with my cats"
     content: "This website will showcase my baking skills and cats"
     image: /images/a17.jpeg
     button:
-      enable: true
+      enable: false
       name: "Resume"
       url: "#"
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-twitter
-          url: https://example.com
+        - icon: fab fa-instagram
+          url: https://www.instagram.com/cocina_con_annalise/
+        - icon: fab fa-facebook
+          url: https://facebook.com
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
@@ -153,19 +153,22 @@ params:
 
   # Experience
   experience:
-    enable: false
+    enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Registered Behavior Technician"
+        company: "Accelerated Learning Center"
+        companyUrl: "http://www.alcautism.com"
+        date: "August 2020 - Present"
         featuredLink:
-          enable: true
+          enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
+        content: |
+        - Training and onboarding of new RBTs
+        - Assisted in assessments and writing of treatment plans and goals under direct supervision of a BCBA
+        - Planned and coordinated company events
+        - Administered treatment plan protocols and collected data on progress
       - job: "Software Developer"
         company: "Amazon"
         companyUrl: "https://example.com"
