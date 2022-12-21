@@ -148,7 +148,7 @@ params:
       items:
         - "Fluent in English and Spanish"
         - "Registered Behavioral Technician"
-        - "Safety Care by QBS Certified"
+        - "QBS Safety-Care Certified"
         - "CPR Certified"
 
   # Experience
@@ -166,10 +166,10 @@ params:
           url: "https://example.com"
         content: |
 
-          - Training and onboarding of new RBTs
-          - Assisted in assessments and writing of treatment plans and goals under direct supervision of a BCBA
-          - Planned and coordinated company events
-          - Administered treatment plan protocols and collected data on progress
+          - Training and onboarding of new RBTs.
+          - Assisted in assessments and writing of treatment plans and goals under direct supervision of a BCBA.
+          - Planned and coordinated company events.
+          - Administered treatment plan protocols and collected data on progress.
     
       - job: "Long Term Substitute"
         company: "Pinecrest Academy Cadence"
@@ -193,28 +193,30 @@ params:
         companyUrl: "https://unlv.edu"
         date: "February 2018 - August 2018"
         info:
-          enable: false
+          enable: true
         featuredLink:
           enable: false
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+         
+          - Redirect Students to appropriate academic support services.
+          - Assist Academic coaches in scheduling students' appointments.
+          - Enure programs are executed on time.
+          - Conduct professional phone calls between students and other service providers.
 
       - job: "Registered Behavior Technician"
         company: "Our Little World Treatment Center"
-        companyUrl: "https://example.com"
+        companyUrl: "https://www.olwtreatment.com"
         date: "April 2017 - February 2018"
         featuredLink:
           enable: false
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Provided direct service with children with Autism Spectrum Disorders and related learning disorders.
+          - Administered treatment plan protocols and collected data on progress.
+          - Conducted treatment notes on progress an hindrance in treatment plan.
+          - Communicated between clients, parents and other healthcare providers.
 
   # Education
   education:
