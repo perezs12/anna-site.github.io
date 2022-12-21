@@ -195,7 +195,7 @@ params:
         info:
           enable: true
         featuredLink:
-          enable: false
+          enable: true
           url: "https://example.com"
         content: |
          
