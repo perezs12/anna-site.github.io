@@ -144,7 +144,7 @@ params:
 
     skills:
       enable: true
-      title: "Here are a few skills and certifications I currently hold:
+      title: "Here are a few skills and certifications I currently hold:"
       items:
         - "Fluent in English and Spanish"
         - "Registered Behavioral Technician"
