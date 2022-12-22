@@ -54,7 +54,7 @@ params:
   title: "Anna"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/images/a27.jpeg"
+  favicon: "/images/a27.jpg"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -100,7 +100,7 @@ params:
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
+    brandName: "Annalise Perez" # Brand name for the brand | default is the title variable
     disableSearch: false
     menus:
       disableAbout: false
@@ -193,7 +193,7 @@ params:
           enable: false
           url: "https://example.com"
         content: |
-        
+
           - Redirect Students to appropriate academic support services.
           - Assist Academic coaches in scheduling students' appointments.
           - Enure programs are executed on time.
