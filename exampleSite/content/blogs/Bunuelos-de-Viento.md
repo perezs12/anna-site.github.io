@@ -1,9 +1,7 @@
 ---
-title: "Buñuelos de Viento"
+title: "Emoji Support"
 date: 2022-12-21T22:53:58+05:30
 draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
-author: "Gurusabarish"
 tags:
   - Recipes
 image: /images/post.jpg
