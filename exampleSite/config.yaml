@@ -186,16 +186,13 @@ params:
           - Attend meetings and ensure that all rules and procedures are met before deadlines.
 
       - job: "Academic Coach Concierge"
-        company: "University of Nevada, Las Vegas"
+        company: "UNLV"
         companyUrl: "https://unlv.edu"
         date: "February 2018 - August 2018"
-        info:
-          enable: true
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         content: |
-         
           - Redirect Students to appropriate academic support services.
           - Assist Academic coaches in scheduling students' appointments.
           - Enure programs are executed on time.
