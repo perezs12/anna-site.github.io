@@ -13,15 +13,17 @@ description: ""
 toc: 
 ---
 
-Emoji can be enabled in a Hugo project in a number of ways. :zap:
+## Buñuelos de Viento 
 
-## Emoji Support
-
-The [emojify](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
-
-To enable emoji globally, set ```enableEmoji``` to ```true``` in your site’s [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
-
-The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
+Steps
+1. Combine dry ingredients together using whisk 
+2. Add in eggs, water, butter and vanilla while whisking 
+3. Slowly add in milk, getting rid of lumps and bumps
+4. Heat Vegetable oil over pans 
+5. Heat molds dip molds into batter being careful not to cover top of mold in batter. Carefully and quickly put battered mold into the hot oil. Carefully shake buñuelo free from mold. 
+6. Once buñuelo is golden, flip, once both sides are golden carefully lift buñuelo out of the oil
+7. Let buñuelo drain on rack, dip buñuelo in sugar cinnamon mixture
+8. Enjoy ! 
 
 <hr>
 
