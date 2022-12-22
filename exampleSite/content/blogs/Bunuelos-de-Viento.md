@@ -1,10 +1,10 @@
 ---
-title: "Emoji Support"
+title: "Buñuelos de Viento"
 date: 2022-12-21T22:53:58+05:30
 draft: false
 tags:
   - Recipes
-image: /images/post.jpg
+image: /images/bunuelos.jpeg
 description: ""
 toc: 
 ---
@@ -20,13 +20,3 @@ Steps
 6. Once buñuelo is golden, flip, once both sides are golden carefully lift buñuelo out of the oil
 7. Let buñuelo drain on rack, dip buñuelo in sugar cinnamon mixture
 8. Enjoy ! 
-
-<hr>
-
-**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
-
-```
-.emoji {
-  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}
-```

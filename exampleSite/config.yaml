@@ -51,10 +51,10 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "Anna"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/images/a27.jpeg"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -106,9 +106,9 @@ params:
       disableAbout: false
       disableExperience: false
       disableEducation: false
-      disableProjects: false
-      disableAchievements: false
-      disableContact: false
+      disableProjects: true
+      disableAchievements: true
+      disableContact: true
 
   # Hero
   hero:
@@ -130,9 +130,6 @@ params:
           url: https://www.instagram.com/cocina_con_annalise/
         - icon: fab fa-facebook
           url: https://facebook.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
 
   # About
   about:
