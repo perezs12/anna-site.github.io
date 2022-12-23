@@ -99,7 +99,7 @@ params:
   # If you want to customize the menu, you can change it here
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-    # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+    brandLogo: "/images/a27.jpg" # Logo for the brand | default is the favicon variable
     brandName: "Anna" # Brand name for the brand | default is the title variable
     disableSearch: false
     menus:
