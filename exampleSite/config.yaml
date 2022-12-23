@@ -22,10 +22,10 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
+    - identifier: recipes
       name: Recipes
-      title: Blog posts
-      url: /blogs
+      title: Recipes
+      url: /recipes
       weight: 1
     - identifier: gallery
       name: Gallery
@@ -115,7 +115,7 @@ params:
     enable: true
     intro: "Hello, my name is"
     title: "Annalise."
-    subtitle: "I love baking, reading, and hanging out with husband and cats"
+    subtitle: "I love baking, reading, and hanging out with my husband and cats"
     content: " "
     image: /images/a17.jpeg
     button:
