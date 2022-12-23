@@ -5,14 +5,32 @@ draft: false
 description: "My gallery"
 layout: "gallery"
 images:
- - src: https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111-1500x1000.jpg
- - src: https://img.etimg.com/thumb/msid-68721417,width-650,imgsize-1016106,,resizemode-4,quality-100/nature1_gettyimages.jpg
- - src: https://thumbs.dreamstime.com/b/team-ants-council-collective-decision-work-17037482.jpg
- - src: https://thumbs.dreamstime.com/b/summer-day-smiling-women-relax-wearing-red-dress-fashion-standing-wooden-bridge-over-sea-blue-sky-background-summer-107411998.jpg
- - src: https://thumbs.dreamstime.com/b/young-woman-playing-dog-pet-beach-sunrise-sunset-girl-dog-having-fun-seasid-seaside-cute-neglected-stay-66480218.jpg
- - src: https://thumbs.dreamstime.com/b/funny-picture-taken-sunrise-frozen-lake-perspective-rider-retro-bicycle-sunrise-personal-211066044.jpg 
  - src: /images/a1.jpeg
  - src: /images/a2.jpeg
  - src: /images/a3.jpeg
  - src: /images/a4.jpeg
+ - src: /images/a5.jpeg
+ - src: /images/a6.jpeg
+ - src: /images/a7.jpeg
+ - src: /images/a8.jpeg
+ - src: /images/a9.jpeg
+ - src: /images/a10.jpeg
+ - src: /images/a11.jpeg
+ - src: /images/a12.jpeg
+ - src: /images/a13.jpeg
+ - src: /images/a14.jpeg
+ - src: /images/a15.jpeg
+ - src: /images/a16.jpeg
+ - src: /images/a17.jpeg
+ - src: /images/a18.jpeg
+ - src: /images/a19.jpeg
+ - src: /images/a20.jpeg
+ - src: /images/a21.jpeg
+ - src: /images/a22.jpeg
+ - src: /images/a23.jpeg
+ - src: /images/a24.jpeg
+ - src: /images/a25.jpeg
+ - src: /images/a26.jpeg
+ - src: /images/a27.jpeg
+
 ---
