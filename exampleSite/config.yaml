@@ -100,7 +100,7 @@ params:
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    brandName: "AP" # Brand name for the brand | default is the title variable
+    brandName: "Anna" # Brand name for the brand | default is the title variable
     disableSearch: false
     menus:
       disableAbout: false
@@ -113,10 +113,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
+    intro: "Hello, my name is"
     title: "Annalise."
-    subtitle: "I love baking, reading, and chilling with my cats"
-    content: "This website will showcase my baking skills and cats"
+    subtitle: "I love baking, reading, and hanging out with husband and cats"
+    content: " "
     image: /images/a17.jpeg
     button:
       enable: false
@@ -143,7 +143,6 @@ params:
       enable: true
       title: "Here are a few skills and certifications I currently hold:"
       items:
-        - "Fluent in English and Spanish"
         - "Registered Behavioral Technician"
         - "QBS Safety-Care Certified"
         - "CPR Certified"
