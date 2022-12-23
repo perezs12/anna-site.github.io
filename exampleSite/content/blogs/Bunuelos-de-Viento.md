@@ -2,6 +2,7 @@
 title: "Buñuelos de Viento"
 date: 2022-12-21T22:53:58+05:30
 draft: false
+author: "Anna"
 tags:
   - Recipes
 image: /images/bunuelos.jpeg
