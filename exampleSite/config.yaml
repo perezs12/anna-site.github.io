@@ -115,9 +115,9 @@ params:
     enable: true
     intro: "Hello, my name is"
     title: "Annalise."
-    subtitle: "I love baking, reading, and hanging out with my husband and cats"
-    content: " "
-    image: /images/a17.jpeg
+    subtitle: "I absolutely love cooking and baking, and I find it to be a great creative outlet and stress-reliever."
+    content: "I am also incredibly grateful to have a supportive and loving husband by my side. In addition to my love for the culinary arts, I have a passion for working with children with disabilities, and I find great fulfillment in helping them reach their full potential and achieve their goals. Whether I'm in the kitchen or working with kids, I am constantly learning and growing, and I find joy in every aspect of my work."
+    image: /images/sunset.jpeg
     button:
       enable: false
       name: "Resume"
