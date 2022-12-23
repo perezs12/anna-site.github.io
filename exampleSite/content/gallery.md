@@ -31,6 +31,6 @@ images:
  - src: /images/a24.jpeg
  - src: /images/a25.jpeg
  - src: /images/a26.jpeg
- - src: /images/a27.jpeg
+ - src: /images/a27.jpg
 
 ---
