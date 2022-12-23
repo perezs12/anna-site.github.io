@@ -25,7 +25,7 @@ toc:
 2. Put sugar on nonstick skillet on medium
 3. Slowly whisk eggs and condensed milk and evaporated milk, add vanilla set aside 
 4. Continue to shake sugar in the pan don't stir with spatula until sugar melts Get a high heat resistant spatula and carefully paint  hot caramel on mold 
-* Be careful the caramel is extremely hot and gets hard when cooled so work fast *
+**Be careful the caramel is extremely hot and gets hard when cooled so work fast**
 5. Pour flan mixture over caramel in the mold
 6. Cover with aluminum foil and make vents with knife. Try making a tent and not let the flan touch the aluminum. 
 8. Place mold in larger pan and put water in between- Baño Maria
