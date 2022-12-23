@@ -1,5 +1,5 @@
 ---
-title: "Buñuelos de Viento"
+title: "Buñuelos De Viento"
 date: 2022-12-21T22:53:58+05:30
 draft: false
 author: "Anna"
@@ -10,9 +10,9 @@ description: ""
 toc: 
 ---
 
-## Buñuelos de Viento 
+## Buñuelos De Viento 
 
-Steps
+### Steps
 1. Combine dry ingredients together using whisk 
 2. Add in eggs, water, butter and vanilla while whisking 
 3. Slowly add in milk, getting rid of lumps and bumps
