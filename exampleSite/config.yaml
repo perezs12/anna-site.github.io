@@ -137,13 +137,14 @@ params:
     title: "About Me"
     image: "/images/anna.jpeg"
     content: |-
-      I am a passionate RBT working towards my Masters in Behavioral Analysis.
+      I am a passionate Board Certified Behavior Analyst working at Accelerated Learning Center.
+      
 
     skills:
       enable: true
       title: "Here are a few skills and certifications I currently hold:"
       items:
-        - "Registered Behavioral Technician"
+        - "Board Certified Behavior Analyst"
         - "QBS Safety-Care Certified"
         - "CPR Certified"
 
@@ -152,18 +153,18 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Registered Behavior Technician / Program Manager"
+      - job: "Board Certified Behavior Analyst"
         company: "Accelerated Learning Center"
         companyUrl: "http://www.alcautism.com"
         date: "August 2020 - Present"
         featuredLink:
-          enable: false
-          name: "View the project"
-          url: "https://example.com"
+          enable: true
+          name: "BACB Certificant Registry"
+          url: "https://www.bacb.com/services/o.php?page=101135&sendid=37426"
         content: |
 
           - Training and onboarding of new RBTs.
-          - Assisted in assessments and writing of treatment plans and goals under direct supervision of a BCBA.
+          - Assisted in assessments and writing of treatment plans and goals.
           - Planned and coordinated company events.
           - Administered treatment plan protocols and collected data on progress.
     
@@ -222,10 +223,9 @@ params:
         school:
           name: "Florida Institute of Technology"
           url: "https://www.fit.edu"
-        date: "January 2021 - Present"
+        date: "January 2021 - May 2023"
         GPA: "3.95"
-        content: |-
-          Expected graduation date is May 2023
+        content:
         featuredLink:
           enable: false
           name: "My academic record"
