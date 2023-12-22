@@ -133,6 +133,11 @@ params:
 
   # About
   about:
+    items:
+        featuredLink:
+          enable: true
+          name: "BACB Certificant Registry"
+          url: "https://www.bacb.com/services/o.php?page=101135&sendid=37426"
     enable: true
     title: "About Me"
     image: "/images/anna.jpeg"
