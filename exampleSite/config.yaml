@@ -115,8 +115,8 @@ params:
     enable: true
     intro: "Hello, my name is"
     title: "Annalise."
-    subtitle: "I absolutely love cooking and baking"
-    content: "I find it to be a great creative outlet and stress-reliever. I am also incredibly grateful to have a supportive and loving husband by my side. In addition to my love for the culinary arts, I have a passion for working with children with disabilities, and I find great fulfillment in helping them reach their full potential and achieve their goals. Whether I'm in the kitchen or working with kids, I am constantly learning and growing, and I find joy in every aspect of my work."
+    subtitle: "My heart simmers in two kitchens "
+    content: "the culinary and the classroom. One fuels with fragrant spices and crackling flames, the other with bright giggles and triumphant milestones. Both overflow with the joy of creation, whether I'm orchestrating a symphony of flavors on a plate or witnessing a child's potential rise with every hurdle overcome. With a loving husband and two purring sous chefs by my side (yes, my cats have impeccable taste!), each day is a delectable blend of learning, growth, and the sweet satisfaction of nurturing both bodies and dreams."
     image: /images/a14.jpeg
     button:
       enable: false
